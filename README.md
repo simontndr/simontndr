@@ -1,0 +1,4 @@
+- Hello, I’m Simon Tenedero!
+- I'm interested in Front-end / Web development
+- I'm seeking to expand my knowledge on React
+- Let's connect on Linkedin! You can find my other contact information on there
