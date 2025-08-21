@@ -1,4 +1,8 @@
-- Hello, I’m Simon Tenedero!
-- I'm interested in Front-end / Web development
-- I'm seeking to expand my knowledge on React
-- Let's connect on Linkedin! You can find my other contact information on there
+### Hello, I’m Simon Tenedero! 🧸
+
+- 💻 **Front-end Web Developer**
+- 🤝 Passionate about developing technology to support community building 
+- 🔗 Check out [my portfolio](https://simontndr.github.io)
+- 🃏 Key Project: Cardami (SpurHacks 2025 - Best Web3 Award)
+
+🔗 Inquiries or Prospects: steneder@uoguelph.ca
