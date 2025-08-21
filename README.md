@@ -5,4 +5,4 @@
 - 🔗 Check out [my portfolio](https://simontndr.github.io)
 - 🃏 Key Project: Cardami (Best Web3 Award- **SpurHacks 2025**)
 
-🔗 Inquiries or Prospects: steneder@uoguelph.ca
+✉️ Inquiries or Prospects: steneder@uoguelph.ca
