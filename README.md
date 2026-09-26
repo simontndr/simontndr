@@ -1,7 +1,7 @@
 ### Hello, I’m Simon Tenedero! 🧸
 
-- 💻 **Front-end Web Developer**
-- 🤝 Passionate about developing technology to support community building 
+- 💻 **Business Analytics / Business Intelligence**
+- 🤝 Passionate about leveraging technology & data to support strategic decision making
 - 🔗 Check out [my portfolio](https://simontndr.github.io)
 - 🃏 Key Project: Cardami (**Best Web3 Award** - SpurHacks 2025)
 
